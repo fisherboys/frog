@@ -18,4 +18,4 @@
 4. 启动青蛙旅行app，在主界面
 5. 运行此脚本：python frog.py
 
-![](/assets/未标题1.gif)
+![](./example.gif)
